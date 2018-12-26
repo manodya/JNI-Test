@@ -1,0 +1,14 @@
+﻿Build started 12/26/2018 2:54:25 PM.
+     1>Project "C:\Users\akilam.DIRECT\documents\visual studio 2013\Projects\Mano\Mano\Mano.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt test.cpp
+         test.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\akilam.DIRECT\documents\visual studio 2013\Projects\Mano\x64\Debug\Mano.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\akilam.DIRECT\documents\visual studio 2013\Projects\Mano\x64\Debug\Mano.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\akilam.DIRECT\documents\visual studio 2013\Projects\Mano\x64\Debug\Mano.lib" /MACHINE:X64 /DLL x64\Debug\test.obj
+            Creating library C:\Users\akilam.DIRECT\documents\visual studio 2013\Projects\Mano\x64\Debug\Mano.lib and object C:\Users\akilam.DIRECT\documents\visual studio 2013\Projects\Mano\x64\Debug\Mano.exp
+         Mano.vcxproj -> C:\Users\akilam.DIRECT\documents\visual studio 2013\Projects\Mano\x64\Debug\Mano.dll
+     1>Done Building Project "C:\Users\akilam.DIRECT\documents\visual studio 2013\Projects\Mano\Mano\Mano.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.51
